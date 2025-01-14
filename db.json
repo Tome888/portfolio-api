@@ -1,0 +1,60 @@
+{
+  "en": {
+    "id": 1000,
+    "home": {
+      "id": 2001,
+      "name": "Tome Jeftimov",
+      "slogan": "place holder slogan"
+    },
+    "projects": {
+      "id": 2002,
+      "title": "My Projects",
+      "projects": [
+        {
+          "id": 3001,
+          "nameProject": "Projects 1",
+          "description": "Some placeholder description",
+          "imgUrl": "https://link-to-image.com",
+          "linkToProject": "https://link-to-project.com"
+        },
+        {
+          "id": 3002,
+          "nameProject": "Projects 2",
+          "description": "Some placeholder description 2",
+          "imgUrl": "https://link-to-image2.com",
+          "linkToProject": "https://link-to-project2.com"
+        }
+      ]
+    }
+  },
+  "mk": {
+    "id": 1001,
+    "home": {
+      "id": 2003,
+      "name": "Томе Јефтимов",
+      "slogan": "Пример слоган"
+    },
+    "projects": {
+      "id": 2004,
+      "title": "Мој Проекти",
+      "projects": [
+        {
+          "id": 3003,
+          "nameProject": "Проект 1",
+          "description": "Некое Објаснување",
+          "imgUrl": "https://link-to-image.com",
+          "linkToProject": "https://link-to-project.com"
+        },
+        {
+          "id": 3004,
+          "nameProject": "Проект 2",
+          "description": "Некое Објаснување 2",
+          "imgUrl": "https://link-to-image2.com",
+          "linkToProject": "https://link-to-project2.com"
+        }
+      ]
+    }
+  }
+}
+
+
