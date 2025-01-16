@@ -3,8 +3,10 @@
     "id": 1000,
     "home": {
       "id": 2001,
-      "name": "Tome Jeftimov",
-      "slogan": "place holder slogan"
+      "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
+      "name": "Tome",
+      "lastName": "Jeftimov",
+      "slogan": "Turning Ideas into Impactful Digital Realities."
     },
     "projects": {
       "id": 2002,
@@ -31,8 +33,10 @@
     "id": 1001,
     "home": {
       "id": 2003,
-      "name": "Томе Јефтимов",
-      "slogan": "Пример слоган"
+      "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
+      "name": "Томе",
+      "lastName": "Јефтимов",
+      "slogan": "Претворање на идеите во влијателни дигитални реалности."
     },
     "projects": {
       "id": 2004,
