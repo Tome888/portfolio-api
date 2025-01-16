@@ -9,6 +9,49 @@
       "status": "Full-Stack Developer & Marketing Graduate",
       "slogan": "Turning Ideas into Impactful Digital Realities."
     },
+    "about": {
+      "id": 1003,
+      "aboutText": "Hi, I’m Tome, a passionate Full-Stack Developer with a knack for creating seamless and user-friendly digital experiences. My expertise lies in modern web technologies and I’m always eager to expand my skill set and embrace new challenges.\n\nWith a BSc in Economics and Marketing, I bring a unique blend of technical proficiency and strategic insight, allowing me to develop solutions that are not only functional but also market-oriented and impactful.\n\nAs a freelance developer, I’ve honed my ability to adapt to diverse projects, collaborate effectively, and deliver results that exceed client expectations. Whether building responsive front-end interfaces or designing efficient back-end systems, I thrive on turning ideas into reality.\n\nDriven by curiosity and a commitment to growth, I’m always seeking opportunities to learn, innovate, and contribute to meaningful projects. Let’s connect and build something amazing together!",
+      "tech": [
+        {
+          "id": "tech1",
+          "nameTech": "HTML5"
+        },
+        {
+          "id": "tech2",
+          "nameTech": "CSS3"
+        },
+        {
+          "id": "tech3",
+          "nameTech": "JavaScript"
+        },
+        {
+          "id": "tech4",
+          "nameTech": "React"
+        },
+        {
+          "id": "tech5",
+          "nameTech": "Next.js"
+        },
+        {
+          "id": "tech6",
+          "nameTech": "Express.js"
+        },
+        {
+          "id": "tech7",
+          "nameTech": "Node.js"
+        },
+        {
+          "id": "tech8",
+          "nameTech": "GraphQL"
+        },
+         {
+          "id": "tech9",
+          "nameTech": "Git"
+        }
+      ],
+      "gitHubLink": "https://github.com/Tome888"
+    },
     "projects": {
       "id": 1002,
       "title": "My Projects",
@@ -40,6 +83,49 @@
       "status": "Софтверски Девелопер и Дипломиран Маркетер",
       "slogan": "Претворање на идеите во влијателни дигитални реалности."
     },
+    "about": {
+      "id": 1003,
+      "aboutText": "Здраво! Јас сум Томе, софтвер девелопер со силна страст за креирање иновативни и ефективни дигитални решенија. Моите вештини опфаќаат широк спектар на веб технологии и секогаш се стремам да ги подобрувам и проширувам во текот на мојата кариера. Верувам во моќта на современите технологии да го трансформираат начинот на кој работиме и комуницираме.\n\nСо образование по Економија и Маркетинг, можам да ги комбинирам моите технички способности со стратегиско размислување, што ми овозможува да создадам решенија кои не само што се функционални, туку и имаат јасен пазарен импакт. Моето разбирање на економијата и маркетингот ми помага да пристапам кон секој проект од глобална перспектива.\n\nКако фриленс развивач, работев на различни проекти кои ми овозможија да се адаптирам на различни индустрии и да понудам решенија кои ги задоволуваат секојдневните потреби на клиентите. Уживам во предизвикот на градење на интегрирани системи кои се не само технички безбедни, туку и лесни за користење.\n\nПостојано се поттикнувам да учам нови концепти и да истражувам нови области на софтвер девелопмент. Доколку сте заинтересирани за партнерство или нов проект, секогаш сум отворен за нови идеи и можности!",
+      "tech": [
+        {
+          "id": "tech1",
+          "nameTech": "HTML5"
+        },
+        {
+          "id": "tech2",
+          "nameTech": "CSS3"
+        },
+        {
+          "id": "tech3",
+          "nameTech": "JavaScript"
+        },
+        {
+          "id": "tech4",
+          "nameTech": "React"
+        },
+        {
+          "id": "tech5",
+          "nameTech": "Next.js"
+        },
+        {
+          "id": "tech6",
+          "nameTech": "Express.js"
+        },
+        {
+          "id": "tech7",
+          "nameTech": "Node.js"
+        },
+        {
+          "id": "tech8",
+          "nameTech": "GraphQL"
+        },
+         {
+          "id": "tech9",
+          "nameTech": "Git"
+        }
+      ],
+      "gitHubLink": "https://github.com/Tome888"
+    },
     "projects": {
       "id": 2002,
       "title": "Мој Проекти",
@@ -62,5 +148,6 @@
     }
   }
 }
+
 
 
