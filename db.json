@@ -3,7 +3,7 @@
     "id": 1000,
     "home": {
       "id": 1001,
-      "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
+      "pfpImg": "https://tome888.github.io/portfolio-api/PFP%20no%20Background.png",
       "name": "Tome",
       "lastName": "Jeftimov",
       "status": "Full-Stack Developer & Marketing Graduate",
@@ -77,7 +77,7 @@
     "id": 2000,
     "home": {
       "id": 2001,
-      "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
+      "pfpImg": "https://tome888.github.io/portfolio-api/PFP%20no%20Background.png",
       "name": "Томе",
       "lastName": "Јефтимов",
       "status": "Софтверски Девелопер и Дипломиран Маркетер",
