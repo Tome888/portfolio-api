@@ -2,14 +2,15 @@
   "en": {
     "id": 1000,
     "home": {
-      "id": 2001,
+      "id": 1001,
       "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
       "name": "Tome",
       "lastName": "Jeftimov",
+      "status": "Full-Stack Developer & Marketing Graduate",
       "slogan": "Turning Ideas into Impactful Digital Realities."
     },
     "projects": {
-      "id": 2002,
+      "id": 1002,
       "title": "My Projects",
       "projects": [
         {
@@ -30,27 +31,28 @@
     }
   },
   "mk": {
-    "id": 1001,
+    "id": 2000,
     "home": {
-      "id": 2003,
+      "id": 2001,
       "pfpImg": "https://gitlab.com/brainster4614647/images-portfolio/-/raw/main/PFP_no_Background.png",
       "name": "Томе",
       "lastName": "Јефтимов",
+      "status": "Софтверски Девелопер и Дипломиран Маркетер",
       "slogan": "Претворање на идеите во влијателни дигитални реалности."
     },
     "projects": {
-      "id": 2004,
+      "id": 2002,
       "title": "Мој Проекти",
       "projects": [
         {
-          "id": 3003,
+          "id": 4003,
           "nameProject": "Проект 1",
           "description": "Некое Објаснување",
           "imgUrl": "https://link-to-image.com",
           "linkToProject": "https://link-to-project.com"
         },
         {
-          "id": 3004,
+          "id": 4004,
           "nameProject": "Проект 2",
           "description": "Некое Објаснување 2",
           "imgUrl": "https://link-to-image2.com",
