@@ -33,7 +33,8 @@
       "id": 1002,
       "title": "My Projects",
       "projectsArr": [
-        {"id": "03001",
+        {
+          "id": "03001",
           "tags": ["nextJS", "responsive"],
           "description": "E-commerce shop",
           "title": "Summertime Sadness",
@@ -86,7 +87,8 @@
       "id": 2002,
       "title": "Мој Проекти",
       "projectsArr": [
-        {{"id": "04001",
+        {
+          "id": "04001",
           "tags": ["nextJS", "responsive"],
           "description": "E-commerce shop",
           "title": "Summertime Sadness",
@@ -94,7 +96,8 @@
           "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
           "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
         },
-        {"id": "04002",
+        {
+          "id": "04002",
           "description": "Babbu Maan",
           "title": "Mitran Di Chhatri",
           "src": "https://assets.aceternity.com/demos/babbu-maan.jpeg",
@@ -105,6 +108,3 @@
     }
   }
 }
-
-
-
