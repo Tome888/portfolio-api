@@ -36,19 +36,65 @@
         {
           "id": "03001",
           "tags": ["nextJS", "responsive"],
-          "description": "E-commerce shop",
-          "title": "Summertime Sadness",
+          "description": "###########",
+          "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
           "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
           "content": "This is a simple eCommerce shop built with Next.js, featuring search, filtering, and enhanced SEO through the use of getServerSideProps and getStaticProps. The website includes a homepage, search page, blog page, about page, individual blog posts, and individual product pages."
         },
         {
           "id": "03002",
-          "description": "Babbu Maan",
-          "title": "Mitran Di Chhatri",
-          "src": "https://assets.aceternity.com/demos/babbu-maan.jpeg",
-          "ctaLink": "https://ui.aceternity.com/templates",
-          "content": "Babbu Maan, a celebrated Punjabi singer-songwriter, is renowned for his deep, soulful music and heartfelt lyrics. Born as Tejinder Singh Maan in Punjab, India, Babbu Maan has become a cultural icon in the Punjabi music industry. His songs often address social issues, love, and personal experiences, resonating deeply with fans across the globe. Over the years, Babbu Maan has released numerous chart-topping albums and has earned a dedicated fan following for his authentic storytelling and powerful voice."
+          "tags": ["nextJS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "MAHR Platform",
+          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
+          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
+          "content": "This is the final project from the React/Next.js module at Brainster. It includes filters, search functionality, and a dynamic calendar that adjusts based on data. To make the project more dynamic, I decided to add a backend for the first time, using Express.js and a db.json database. The backend handles user registration, login via JWT, and allows users to update credentials or comment on blog posts, with comments saved to the database. I also added support for dual languages: English and Macedonian."
+        },
+        {
+          "id": "03003",
+          "tags": ["javaScript", "responsive"],
+          "description": "###########",
+          "title": "Safe Blink Platform",
+          "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
+          "ctaLink": "https://safe-blink-tj.netlify.app/",
+          "content": "This is the final project for our JavaScript module. It’s a single-page web application built with Vanilla JavaScript, utilizing a Python backend server for authentication. The project is designed to be mobile and tablet-friendly. Key features include card filtering, saving user preferences, and allowing user interactions through comments on both cards and blog pages."
+        },
+        {
+          "id": "03004",
+          "tags": ["reactTS", "challenge"],
+          "description": "###########",
+          "title": "Sava Hackathon",
+          "src": "https://tome888.github.io/portfolio-api/hackaton.png",
+          "ctaLink": "https://sava-hackaton-tj.netlify.app/",
+          "content": "This project was developed during a hackathon for Sava Insurance, where we had 24 hours to create a solution for the client. While the app is connected to a backend, the presentation includes only the front-end. Key features include user registration, login, and communication with the backend regarding payments and user information."
+        },
+        {
+          "id": "03005",
+          "tags": ["reactTS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "Blog PT.1",
+          "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
+          "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
+          "content": "This project is built using React.TS, the point of the project is to handle user input (commenting, rating, adding to favorites). All the user inputs are communicated with a Backend built with Express.JS and the data is saved accordingly."
+        },
+        {
+          "id": "03006",
+          "tags": ["reactTS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "Blog - AP PT.2",
+          "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
+          "ctaLink": "https://ap-restaurants-tj.netlify.app/",
+          "content": "This is an Admin Panel built for managing the Blog platform, developed using React.TS and Express.JS. Key features include JWT authentication and the ability to add, modify, and delete content. Changes made through this panel directly impact the database of the main Blog platform."
+        },
+        {
+          "id": "03007",
+          "tags": ["reactTS", "responsive"],
+          "description": "###########",
+          "title": "Old Portfolio",
+          "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
+          "ctaLink": "https://jeftimovportfolio.netlify.app/",
+          "content": "This is my previous portfolio website, built with React. It is fully responsive and incorporates a variety of complex effects to enhance user interaction. The site supports dual languages (English and Macedonian) and includes both dark and light modes for an optimized user experience. Additionally, it features a contact form that allows users to send emails directly through the site."
         }
       ]
     }
@@ -90,21 +136,68 @@
         {
           "id": "04001",
           "tags": ["nextJS", "responsive"],
-          "description": "E-commerce shop",
-          "title": "Summertime Sadness",
+          "description": "############",
+          "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
           "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
           "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
         },
         {
           "id": "04002",
-          "description": "Babbu Maan",
-          "title": "Mitran Di Chhatri",
-          "src": "https://assets.aceternity.com/demos/babbu-maan.jpeg",
-          "ctaLink": "https://ui.aceternity.com/templates",
-          "content": "Babbu Maan, a celebrated Punjabi singer-songwriter, is renowned for his deep, soulful music and heartfelt lyrics. Born as Tejinder Singh Maan in Punjab, India, Babbu Maan has become a cultural icon in the Punjabi music industry. His songs often address social issues, love, and personal experiences, resonating deeply with fans across the globe. Over the years, Babbu Maan has released numerous chart-topping albums and has earned a dedicated fan following for his authentic storytelling and powerful voice."
+          "tags": ["nextJS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "MAHR Platform",
+          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
+          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
+          "content": "Ова е финалниот проект од модулот React/Next.js на Brainster. Вклучува филтри, функција за пребарување и динамичен календар кој се прилагодува според податоците. За да го направам проектот подинамичен, одлучив за првпат да додадам backend, користејќи Express.js и db.json база на податоци. Backend-от управува со регистрација на корисници, најавување преку JWT, и им овозможува на корисниците да ги ажурираат своите информации или да коментираат на блог-постови, при што коментарите се зачувуваат во базата. Исто така, додадов поддршка за два јазика: англиски и македонски."
+        },
+        {
+          "id": "04003",
+          "tags": ["javaScript", "responsive"],
+          "description": "###########",
+          "title": "Safe Blink Platform",
+          "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
+          "ctaLink": "https://safe-blink-tj.netlify.app/",
+          "content": "Ова е финалниот Бреинстер проект од модулот за JavaScript. Веб-апликација е single-page изградена со Vanilla JavaScript, која користи Python backend сервер за автентикација. Проектот е дизајниран да биде прилагоден за мобилни уреди и таблети. Клучните карактеристики вклучуваат филтрирање на картички, зачувување на кориснички преференции и овозможување на интеракција на корисниците преку коментари на картичките и блог страниците."
+        },
+        {
+          "id": "04004",
+          "tags": ["reactTS", "challenge"],
+          "description": "###########",
+          "title": "Sava Hackathon",
+          "src": "https://tome888.github.io/portfolio-api/hackaton.png",
+          "ctaLink": "https://sava-hackaton-tj.netlify.app/",
+          "content": "Овој проект беше развиен за време на хакатон организиран од Сава Осигурување, каде имавме 24 часа да создадеме решение за клиентот. Иако апликацијата е поврзана со backend, презентацијата вклучува само front-end. Клучните карактеристики се регистрација на корисници, најава и комуникација со backend-от во врска со плаќања и кориснички информации."
+        },
+        {
+          "id": "04005",
+          "tags": ["reactTS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "Blog PT.1",
+          "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
+          "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
+          "content": "Овој проект е изграден со React.TS која цел е да прима инпути од корисниците како (коментирање, оценување, додавње во омилени). Сите овие инпути се комуницирани со одделен Backend кој ги зачувува во база."
+        },
+        {
+          "id": "04006",
+          "tags": ["reactTS", "fullStack", "expressJS"],
+          "description": "###########",
+          "title": "Blog - AP PT.2",
+          "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
+          "ctaLink": "https://ap-restaurants-tj.netlify.app/",
+          "content": "Ова е Админ Панел изградена за управување со платформата за блог, користејќи React.TS и Express.JS. Клучни карактеристики се JWT аутентикација, можност за бришење, модифицирање, додавање на податоци и други операции. Промените направени преку овој панел директно влијаат на базата на податоци на главната блог платформа."
+        },
+        {
+          "id": "04007",
+          "tags": ["reactTS", "responsive"],
+          "description": "###########",
+          "title": "Old Portfolio",
+          "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
+          "ctaLink": "https://jeftimovportfolio.netlify.app/",
+          "content": "Ова е моето старо веб-портфолио, изградена со React.TS. Портфолиото е целосно респонзивно и вклучува различни комплексни ефекти за подобрување на интеракцијата. Веб-страницата поддржува двојазичност (англиски и македонски) и вклучува и темен и светла тема за оптимизирано искуство. Покрај тоа, има контакт форма која дозволува корисниците да испратат пораки директно преку веб-страницата."
         }
       ]
     }
   }
 }
+
