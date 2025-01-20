@@ -34,11 +34,12 @@
       "title": "My Projects",
       "projectsArr": [
         {"id": "03001",
-          "description": "Lana Del Rey",
+          "tags": ["nextJS", "responsive"],
+          "description": "E-commerce shop",
           "title": "Summertime Sadness",
-          "src": "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
-          "ctaLink": "https://ui.aceternity.com/templates",
-          "content": "Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics. Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous critically acclaimed albums, Lana Del Rey has established herself as a unique and influential figure in the music industry, earning a dedicated fan base and numerous accolades."
+          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
+          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "content": "This is a simple eCommerce shop built with Next.js, featuring search, filtering, and enhanced SEO through the use of getServerSideProps and getStaticProps. The website includes a homepage, search page, blog page, about page, individual blog posts, and individual product pages."
         },
         {
           "id": "03002",
@@ -85,12 +86,13 @@
       "id": 2002,
       "title": "Мој Проекти",
       "projectsArr": [
-        {"id": "04001",
-          "description": "Lana Del Rey",
+        {{"id": "04001",
+          "tags": ["nextJS", "responsive"],
+          "description": "E-commerce shop",
           "title": "Summertime Sadness",
-          "src": "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
-          "ctaLink": "https://ui.aceternity.com/templates",
-          "content": "Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics. Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous critically acclaimed albums, Lana Del Rey has established herself as a unique and influential figure in the music industry, earning a dedicated fan base and numerous accolades."
+          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
+          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
         },
         {"id": "04002",
           "description": "Babbu Maan",
