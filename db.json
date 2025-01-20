@@ -95,6 +95,15 @@
           "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
           "ctaLink": "https://jeftimovportfolio.netlify.app/",
           "content": "This is my previous portfolio website, built with React. It is fully responsive and incorporates a variety of complex effects to enhance user interaction. The site supports dual languages (English and Macedonian) and includes both dark and light modes for an optimized user experience. Additionally, it features a contact form that allows users to send emails directly through the site."
+        },
+        {
+          "id": "03008",
+          "tags": ["reactTS", "responsive"],
+          "description": "###########",
+          "title": "Snake Game",
+          "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
+          "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
+          "content": "I challenged myself to create an arcade game in just one day. The game features a render state similar to how a real game engine functions, but in a simpler version. Built with vanilla JavaScript, CSS, and HTML, it includes core game mechanics such as dynamic rendering, collision detection, and smooth gameplay. Despite the tight deadline, I was able to create a game that mimics the structure of a real game engine while keeping it lightweight and simple. It was an excellent exercise in game development and problem-solving."
         }
       ]
     }
@@ -195,6 +204,15 @@
           "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
           "ctaLink": "https://jeftimovportfolio.netlify.app/",
           "content": "Ова е моето старо веб-портфолио, изградена со React.TS. Портфолиото е целосно респонзивно и вклучува различни комплексни ефекти за подобрување на интеракцијата. Веб-страницата поддржува двојазичност (англиски и македонски) и вклучува и темен и светла тема за оптимизирано искуство. Покрај тоа, има контакт форма која дозволува корисниците да испратат пораки директно преку веб-страницата."
+        },
+        {
+          "id": "04008",
+          "tags": ["reactTS", "responsive"],
+          "description": "###########",
+          "title": "Snake Game",
+          "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
+          "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
+          "content": "Си поставив предизвик да изградам аркадна игра за само еден ден. Играта има рендер состојба слична на тоа како што функционира вистински геим енџин, но во поедноставена верзија. Изградена со ванила JavaScript, CSS и HTML, вклучува основни механики на играта како динамичко рендерирање, детекција на колизии и слично. Без разлика на краткиот рок, успеав да создадам игра која ги имитира структурите на вистински геим енџин. Тоа беше одлична вежба за развој на игри и решавање на проблеми."
         }
       ]
     }
