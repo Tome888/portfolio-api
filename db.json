@@ -32,20 +32,21 @@
     "projects": {
       "id": 1002,
       "title": "My Projects",
-      "projects": [
-        {
-          "id": 3001,
-          "nameProject": "Projects 1",
-          "description": "Some placeholder description",
-          "imgUrl": "https://link-to-image.com",
-          "linkToProject": "https://link-to-project.com"
+      "projectsArr": [
+        {"id": "03001",
+          "description": "Lana Del Rey",
+          "title": "Summertime Sadness",
+          "src": "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
+          "ctaLink": "https://ui.aceternity.com/templates",
+          "content": "Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics. Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous critically acclaimed albums, Lana Del Rey has established herself as a unique and influential figure in the music industry, earning a dedicated fan base and numerous accolades."
         },
         {
-          "id": 3002,
-          "nameProject": "Projects 2",
-          "description": "Some placeholder description 2",
-          "imgUrl": "https://link-to-image2.com",
-          "linkToProject": "https://link-to-project2.com"
+          "id": "03002",
+          "description": "Babbu Maan",
+          "title": "Mitran Di Chhatri",
+          "src": "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+          "ctaLink": "https://ui.aceternity.com/templates",
+          "content": "Babbu Maan, a celebrated Punjabi singer-songwriter, is renowned for his deep, soulful music and heartfelt lyrics. Born as Tejinder Singh Maan in Punjab, India, Babbu Maan has become a cultural icon in the Punjabi music industry. His songs often address social issues, love, and personal experiences, resonating deeply with fans across the globe. Over the years, Babbu Maan has released numerous chart-topping albums and has earned a dedicated fan following for his authentic storytelling and powerful voice."
         }
       ]
     }
@@ -83,24 +84,25 @@
     "projects": {
       "id": 2002,
       "title": "Мој Проекти",
-      "projects": [
-        {
-          "id": 4003,
-          "nameProject": "Проект 1",
-          "description": "Некое Објаснување",
-          "imgUrl": "https://link-to-image.com",
-          "linkToProject": "https://link-to-project.com"
+      "projectsArr": [
+        {"id": "04001",
+          "description": "Lana Del Rey",
+          "title": "Summertime Sadness",
+          "src": "https://assets.aceternity.com/demos/lana-del-rey.jpeg",
+          "ctaLink": "https://ui.aceternity.com/templates",
+          "content": "Lana Del Rey, an iconic American singer-songwriter, is celebrated for her melancholic and cinematic music style. Born Elizabeth Woolridge Grant in New York City, she has captivated audiences worldwide with her haunting voice and introspective lyrics. Her songs often explore themes of tragic romance, glamour, and melancholia, drawing inspiration from both contemporary and vintage pop culture. With a career that has seen numerous critically acclaimed albums, Lana Del Rey has established herself as a unique and influential figure in the music industry, earning a dedicated fan base and numerous accolades."
         },
-        {
-          "id": 4004,
-          "nameProject": "Проект 2",
-          "description": "Некое Објаснување 2",
-          "imgUrl": "https://link-to-image2.com",
-          "linkToProject": "https://link-to-project2.com"
+        {"id": "04002",
+          "description": "Babbu Maan",
+          "title": "Mitran Di Chhatri",
+          "src": "https://assets.aceternity.com/demos/babbu-maan.jpeg",
+          "ctaLink": "https://ui.aceternity.com/templates",
+          "content": "Babbu Maan, a celebrated Punjabi singer-songwriter, is renowned for his deep, soulful music and heartfelt lyrics. Born as Tejinder Singh Maan in Punjab, India, Babbu Maan has become a cultural icon in the Punjabi music industry. His songs often address social issues, love, and personal experiences, resonating deeply with fans across the globe. Over the years, Babbu Maan has released numerous chart-topping albums and has earned a dedicated fan following for his authentic storytelling and powerful voice."
         }
       ]
     }
   }
 }
+
 
 
