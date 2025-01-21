@@ -37,7 +37,7 @@
         {
           "id": "03001",
           "tags": ["nextJS", "responsive"],
-          "description": "###########",
+          "description": "########1###",
           "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
           "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
@@ -46,7 +46,7 @@
         {
           "id": "03002",
           "tags": ["nextJS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "####2#######",
           "title": "MAHR Platform",
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
           "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
@@ -55,7 +55,7 @@
         {
           "id": "03003",
           "tags": ["javaScript", "responsive"],
-          "description": "###########",
+          "description": "#####3######",
           "title": "Safe Blink Platform",
           "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
           "ctaLink": "https://safe-blink-tj.netlify.app/",
@@ -64,7 +64,7 @@
         {
           "id": "03004",
           "tags": ["reactTS", "challenge"],
-          "description": "###########",
+          "description": "#####4######",
           "title": "Sava Hackathon",
           "src": "https://tome888.github.io/portfolio-api/hackaton.png",
           "ctaLink": "https://sava-hackaton-tj.netlify.app/",
@@ -73,7 +73,7 @@
         {
           "id": "03005",
           "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "####5#######",
           "title": "Blog PT.1",
           "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
           "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
@@ -82,7 +82,7 @@
         {
           "id": "03006",
           "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "#####6######",
           "title": "Blog - AP PT.2",
           "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
           "ctaLink": "https://ap-restaurants-tj.netlify.app/",
@@ -91,7 +91,7 @@
         {
           "id": "03007",
           "tags": ["reactTS", "responsive"],
-          "description": "###########",
+          "description": "#####7######",
           "title": "Old Portfolio",
           "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
           "ctaLink": "https://jeftimovportfolio.netlify.app/",
@@ -100,7 +100,7 @@
         {
           "id": "03008",
           "tags": ["reactTS", "responsive"],
-          "description": "###########",
+          "description": "######8#####",
           "title": "Snake Game",
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
           "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
@@ -147,7 +147,7 @@
         {
           "id": "04001",
           "tags": ["nextJS", "responsive"],
-          "description": "############",
+          "description": "####11########",
           "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
           "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
@@ -156,7 +156,7 @@
         {
           "id": "04002",
           "tags": ["nextJS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "####22#######",
           "title": "MAHR Platform",
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
           "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
@@ -165,7 +165,7 @@
         {
           "id": "04003",
           "tags": ["javaScript", "responsive"],
-          "description": "###########",
+          "description": "#####33######",
           "title": "Safe Blink Platform",
           "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
           "ctaLink": "https://safe-blink-tj.netlify.app/",
@@ -174,7 +174,7 @@
         {
           "id": "04004",
           "tags": ["reactTS", "challenge"],
-          "description": "###########",
+          "description": "######44#####",
           "title": "Sava Hackathon",
           "src": "https://tome888.github.io/portfolio-api/hackaton.png",
           "ctaLink": "https://sava-hackaton-tj.netlify.app/",
@@ -183,7 +183,7 @@
         {
           "id": "04005",
           "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "######55#####",
           "title": "Blog PT.1",
           "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
           "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
@@ -192,7 +192,7 @@
         {
           "id": "04006",
           "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "###########",
+          "description": "######66#####",
           "title": "Blog - AP PT.2",
           "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
           "ctaLink": "https://ap-restaurants-tj.netlify.app/",
@@ -201,7 +201,7 @@
         {
           "id": "04007",
           "tags": ["reactTS", "responsive"],
-          "description": "###########",
+          "description": "#####77######",
           "title": "Old Portfolio",
           "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
           "ctaLink": "https://jeftimovportfolio.netlify.app/",
@@ -210,7 +210,7 @@
         {
           "id": "04008",
           "tags": ["reactTS", "responsive"],
-          "description": "###########",
+          "description": "######88#####",
           "title": "Snake Game",
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
           "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
