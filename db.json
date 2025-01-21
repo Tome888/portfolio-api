@@ -27,7 +27,8 @@
         { "id": "edu1", "institute": "Brainster", "title": "Full-Stack Developer" },
         { "id": "edu2", "institute": "University American College Skopje - UACS", "title": "Degree in Economics - specializing in Marketing" }
       ],
-      "gitHubLink": "https://github.com/Tome888"
+      "gitHubLink": "https://github.com/Tome888",
+      "cvDownloadLink": "https://tome888.github.io/portfolio-api/CV%20-%20Tome%20Jeftimov%20EN_page-0001.jpg"
     },
     "projects": {
       "id": 1002,
@@ -136,7 +137,8 @@
         { "id": "edu01", "institute": "Брејнстер", "title": "Full-Stack Developer" },
         { "id": "edu02", "institute": "Универзитет Американ Колеџ Скопје - УАКС", "title": "Дипломиран Економист - Специјализација: Маркетинг" }
       ],
-      "gitHubLink": "https://github.com/Tome888"
+      "gitHubLink": "https://github.com/Tome888",
+      "cvDownloadLink": "https://tome888.github.io/portfolio-api/CV%20-%20Tome%20Jeftimov%20MK_page-0001.jpg"
     },
     "projects": {
       "id": 2002,
