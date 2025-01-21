@@ -99,7 +99,7 @@
         },
         {
           "id": "03008",
-          "tags": ["javaScript", "responsive"],
+          "tags": ["javaScript", "responsive", "challenge"],
           "description": "######8#####",
           "title": "Snake Game",
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
@@ -209,7 +209,7 @@
         },
         {
           "id": "04008",
-          "tags": ["javaScript", "responsive"],
+          "tags": ["javaScript", "responsive", "challenge"],
           "description": "######88#####",
           "title": "Snake Game",
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
