@@ -30,6 +30,25 @@
       "gitHubLink": "https://github.com/Tome888",
       "cvDownloadLink": "https://tome888.github.io/portfolio-api/CV%20-%20Tome%20Jeftimov%20EN_page-0001.jpg"
     },
+    "contact": {
+      "id": 1004,
+      "nameLabel": "Name",
+      "nameInput": "John Doe",
+      "phoneLabel": "Phone Number",
+      "PhoneInput":"XXX-XXX-XXX",
+      "emailLabel": "Email",
+      "emailInput": "john_doe@mail.com",
+      "messageLabel": "Message",
+      "messageInput": "Your Message",
+      "buttonText": "Send",
+      "contactLinks": [{
+        "linkName": "LinkedIn",
+        "URL": "https://www.linkedin.com/in/tome-jeftimov-8546a117b/"
+}, {
+        "linkName": "Email",
+        "URL": "jeftimovcontact@gmail.com"
+}]
+    },
     "projects": {
       "id": 1002,
       "title": "My Projects",
@@ -139,6 +158,26 @@
       ],
       "gitHubLink": "https://github.com/Tome888",
       "cvDownloadLink": "https://tome888.github.io/portfolio-api/CV%20-%20Tome%20Jeftimov%20MK_page-0001.jpg"
+    },
+    
+    "contact": {
+      "id": 2004,
+      "nameLabel": "Име",
+      "nameInput": "Џон Доу",
+      "phoneLabel": "Тел. Број",
+      "PhoneInput":"XXX-XXX-XXX",
+      "emailLabel": "Епошта",
+      "emailInput": "john_doe@mail.com",
+      "messageLabel": "Порака",
+      "messageInput": "Ваша Порака",
+      "buttonText": "Прати",
+      "contactLinks": [{
+        "linkName": "LinkedIn",
+        "URL": "https://www.linkedin.com/in/tome-jeftimov-8546a117b/"
+}, {
+        "linkName": "Email",
+        "URL": "jeftimovcontact@gmail.com"
+}]
     },
     "projects": {
       "id": 2002,
