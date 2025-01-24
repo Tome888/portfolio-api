@@ -42,10 +42,10 @@
       "messageInput": "Your Message",
       "buttonText": "Send",
       "contactLinks": [{
-        "linkName": "LinkedIn",
+        "linkName": "৹LinkedIn",
         "URL": "https://www.linkedin.com/in/tome-jeftimov-8546a117b/"
 }, {
-        "linkName": "Email",
+        "linkName": "৹Email",
         "URL": "jeftimovcontact@gmail.com"
 }]
     },
@@ -172,10 +172,10 @@
       "messageInput": "Ваша Порака",
       "buttonText": "Прати",
       "contactLinks": [{
-        "linkName": "LinkedIn",
+        "linkName": "৹LinkedIn",
         "URL": "https://www.linkedin.com/in/tome-jeftimov-8546a117b/"
 }, {
-        "linkName": "Email",
+        "linkName": "৹Email",
         "URL": "jeftimovcontact@gmail.com"
 }]
     },
