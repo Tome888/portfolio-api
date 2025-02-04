@@ -53,24 +53,7 @@
       "id": 1002,
       "title": "My Projects",
       "projectsArr": [
-        {
-          "id": "03001",
-          "tags": ["nextJS", "responsive"],
-          "description": "########1###",
-          "title": "E-commerce shop",
-          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
-          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
-          "content": "This is a simple eCommerce shop built with Next.js, featuring search, filtering, and enhanced SEO through the use of getServerSideProps and getStaticProps. The website includes a homepage, search page, blog page, about page, individual blog posts, and individual product pages."
-        },
-        {
-          "id": "03002",
-          "tags": ["nextJS", "fullStack", "expressJS"],
-          "description": "####2#######",
-          "title": "MAHR Platform",
-          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
-          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
-          "content": "This is the final project from the React/Next.js module at Brainster. It includes filters, search functionality, and a dynamic calendar that adjusts based on data. To make the project more dynamic, I decided to add a backend for the first time, using Express.js and a db.json database. The backend handles user registration, login via JWT, and allows users to update credentials or comment on blog posts, with comments saved to the database. I also added support for dual languages: English and Macedonian."
-        },
+       
         {
           "id": "03003",
           "tags": ["javaScript", "responsive"],
@@ -124,6 +107,24 @@
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
           "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
           "content": "I challenged myself to create an arcade game in just one day. The game features a render state similar to how a real game engine functions, but in a simpler version. Built with vanilla JavaScript, CSS, and HTML, it includes core game mechanics such as dynamic rendering, collision detection, and smooth gameplay. Despite the tight deadline, I was able to create a game that mimics the structure of a real game engine while keeping it lightweight and simple. It was an excellent exercise in game development and problem-solving."
+        },
+         {
+          "id": "03001",
+          "tags": ["nextJS", "responsive"],
+          "description": "########1###",
+          "title": "E-commerce shop",
+          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
+          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "content": "This is a simple eCommerce shop built with Next.js, featuring search, filtering, and enhanced SEO through the use of getServerSideProps and getStaticProps. The website includes a homepage, search page, blog page, about page, individual blog posts, and individual product pages."
+        },
+        {
+          "id": "03002",
+          "tags": ["nextJS", "fullStack", "expressJS"],
+          "description": "####2#######",
+          "title": "MAHR Platform",
+          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
+          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
+          "content": "This is the final project from the React/Next.js module at Brainster. It includes filters, search functionality, and a dynamic calendar that adjusts based on data. To make the project more dynamic, I decided to add a backend for the first time, using Express.js and a db.json database. The backend handles user registration, login via JWT, and allows users to update credentials or comment on blog posts, with comments saved to the database. I also added support for dual languages: English and Macedonian."
         }
       ]
     }
@@ -183,24 +184,7 @@
       "id": 2002,
       "title": "Мој Проекти",
       "projectsArr": [
-        {
-          "id": "04001",
-          "tags": ["nextJS", "responsive"],
-          "description": "####11########",
-          "title": "E-commerce shop",
-          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
-          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
-          "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
-        },
-        {
-          "id": "04002",
-          "tags": ["nextJS", "fullStack", "expressJS"],
-          "description": "####22#######",
-          "title": "MAHR Platform",
-          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
-          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
-          "content": "Ова е финалниот проект од модулот React/Next.js на Brainster. Вклучува филтри, функција за пребарување и динамичен календар кој се прилагодува според податоците. За да го направам проектот подинамичен, одлучив за првпат да додадам backend, користејќи Express.js и db.json база на податоци. Backend-от управува со регистрација на корисници, најавување преку JWT, и им овозможува на корисниците да ги ажурираат своите информации или да коментираат на блог-постови, при што коментарите се зачувуваат во базата. Исто така, додадов поддршка за два јазика: англиски и македонски."
-        },
+        
         {
           "id": "04003",
           "tags": ["javaScript", "responsive"],
@@ -254,6 +238,24 @@
           "src": "https://tome888.github.io/portfolio-api/snakeGame.png",
           "ctaLink": "https://snake-arcade-game-tj.netlify.app/",
           "content": "Си поставив предизвик да изградам аркадна игра за само еден ден. Играта има рендер состојба слична на тоа како што функционира вистински геим енџин, но во поедноставена верзија. Изградена со ванила JavaScript, CSS и HTML, вклучува основни механики на играта како динамичко рендерирање, детекција на колизии и слично. Без разлика на краткиот рок, успеав да создадам игра која ги имитира структурите на вистински геим енџин. Тоа беше одлична вежба за развој на игри и решавање на проблеми."
+        },
+        {
+          "id": "04001",
+          "tags": ["nextJS", "responsive"],
+          "description": "####11########",
+          "title": "E-commerce shop",
+          "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
+          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
+        },
+        {
+          "id": "04002",
+          "tags": ["nextJS", "fullStack", "expressJS"],
+          "description": "####22#######",
+          "title": "MAHR Platform",
+          "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
+          "ctaLink": "https://mahr-platform-pnoqi4pvg-tome-jeftimovs-projects.vercel.app/",
+          "content": "Ова е финалниот проект од модулот React/Next.js на Brainster. Вклучува филтри, функција за пребарување и динамичен календар кој се прилагодува според податоците. За да го направам проектот подинамичен, одлучив за првпат да додадам backend, користејќи Express.js и db.json база на податоци. Backend-от управува со регистрација на корисници, најавување преку JWT, и им овозможува на корисниците да ги ажурираат своите информации или да коментираат на блог-постови, при што коментарите се зачувуваат во базата. Исто така, додадов поддршка за два јазика: англиски и македонски."
         }
       ]
     }
