@@ -114,7 +114,7 @@
           "description": "########1###",
           "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
-          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "ctaLink": "https://e-com-deploy-gray.vercel.app",
           "content": "This is a simple eCommerce shop built with Next.js, featuring search, filtering, and enhanced SEO through the use of getServerSideProps and getStaticProps. The website includes a homepage, search page, blog page, about page, individual blog posts, and individual product pages."
         },
         {
@@ -245,7 +245,7 @@
           "description": "####11########",
           "title": "E-commerce shop",
           "src": "https://tome888.github.io/portfolio-api/homeEcom.png",
-          "ctaLink": "https://e-com-deploy-67sg62gc1-tome-jeftimovs-projects.vercel.app/",
+          "ctaLink": "https://e-com-deploy-gray.vercel.app",
           "content": "Ова е едноставна eCommerce продавница изградена со Next.js, која вклучува пребарување, филтрирање и подобрена SEO оптимизација преку користење на getServerSideProps и getStaticProps. Веб-страницата вклучува почетна страница, страница за пребарување, блог страница, страница за „за нас“, индивидуални блог постови и страници за поединечни производи."
         },
         {
