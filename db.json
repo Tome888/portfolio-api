@@ -64,6 +64,15 @@
           "content": "This is the final project for our JavaScript module. It’s a single-page web application built with Vanilla JavaScript, utilizing a Python backend server for authentication. The project is designed to be mobile and tablet-friendly. Key features include card filtering, saving user preferences, and allowing user interactions through comments on both cards and blog pages."
         },
         {
+          "id": "03009",
+          "tags": ["reactTS", "challenge", "responsive"],
+          "description": "#####9######",
+          "title": "Wordle-Clone",
+          "src": "https://tome888.github.io/portfolio-api/wordle-clone.png",
+          "ctaLink": "https://my-wordle-clone-tj.netlify.app/",
+          "content": "This is a Wordle clone built with React and TypeScript, offering a fun and interactive word-guessing game. Players can guess words of varying lengths, with feedback on each guess displayed in real-time. The game includes customizable settings such as the number of attempts and word length, with visual feedback (green for correct, yellow for wrong letter position) to help players. A confetti celebration occurs upon winning, adding an extra layer of excitement. The app also features a responsive design, ensuring a smooth experience across devices."
+        },
+        {
           "id": "03004",
           "tags": ["reactTS", "challenge"],
           "description": "#####4######",
@@ -193,6 +202,15 @@
           "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
           "ctaLink": "https://safe-blink-tj.netlify.app/",
           "content": "Ова е финалниот Бреинстер проект од модулот за JavaScript. Веб-апликација е single-page изградена со Vanilla JavaScript, која користи Python backend сервер за автентикација. Проектот е дизајниран да биде прилагоден за мобилни уреди и таблети. Клучните карактеристики вклучуваат филтрирање на картички, зачувување на кориснички преференции и овозможување на интеракција на корисниците преку коментари на картичките и блог страниците."
+        },
+        {
+          "id": "04009",
+          "tags": ["reactTS", "challenge", "responsive"],
+          "description": "#####9######",
+          "title": "Wordle-Clone",
+          "src": "https://tome888.github.io/portfolio-api/wordle-clone.png",
+          "ctaLink": "https://my-wordle-clone-tj.netlify.app/",
+          "content": "Oва е клон на Wordle изграден со React и TypeScript, забавна и интерактивна игра за погодување зборови. Играчите можат да погодуваат зборови со различна должина. Играта вклучува поставки како бројот на обиди и должината на зборовите, со визуелни "feedback" (зелено за правилен одговор, жолто за погрешна позиција на буквата) кои помагаат на играчите да го погодат зборот. По победата, се активира конфети прослава, додавајќи дополнителна возбуда. Апликацијата има и респонзивен дизајн, кој обезбедува беспрекорно искуство на сите уреди."
         },
         {
           "id": "04004",
