@@ -88,7 +88,7 @@
           "description": "####5#######",
           "title": "Blog PT.1",
           "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
-          "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
+          "ctaLink": "https://blog-restaurants-site-tj.netlify.app/",
           "content": "This project is built using React.TS, the point of the project is to handle user input (commenting, rating, adding to favorites). All the user inputs are communicated with a Backend built with Express.JS and the data is saved accordingly."
         },
         {
@@ -229,7 +229,7 @@
           "description": "######55#####",
           "title": "Blog PT.1",
           "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
-          "ctaLink": "https://restaurants-blog-site-tj.netlify.app/",
+          "ctaLink": "https://blog-restaurants-site-tj.netlify.app/",
           "content": "Овој проект е изграден со React.TS која цел е да прима инпути од корисниците како (коментирање, оценување, додавње во омилени). Сите овие инпути се комуницирани со одделен Backend кој ги зачувува во база."
         },
         {
