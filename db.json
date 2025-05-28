@@ -133,7 +133,7 @@
           "description": "####2#######",
           "title": "MAHR Platform",
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
-          "ctaLink": "https://mahr-platform.vercel.app",
+          "ctaLink": "https://mahr-platform-verc.vercel.app",
           "content": "This is the final project from the React/Next.js module at Brainster. It includes filters, search functionality, and a dynamic calendar that adjusts based on data. To make the project more dynamic, I decided to add a backend for the first time, using Express.js and a db.json database. The backend handles user registration, login via JWT, and allows users to update credentials or comment on blog posts, with comments saved to the database. I also added support for dual languages: English and Macedonian."
         }
       ]
@@ -274,7 +274,7 @@
           "description": "####22#######",
           "title": "MAHR Platform",
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
-          "ctaLink": "https://mahr-platform.vercel.app",
+          "ctaLink": "https://mahr-platform-verc.vercel.app",
           "content": "Ова е финалниот проект од модулот React/Next.js на Brainster. Вклучува филтри, функција за пребарување и динамичен календар кој се прилагодува според податоците. За да го направам проектот подинамичен, одлучив за првпат да додадам backend, користејќи Express.js и db.json база на податоци. Backend-от управува со регистрација на корисници, најавување преку JWT, и им овозможува на корисниците да ги ажурираат своите информации или да коментираат на блог-постови, при што коментарите се зачувуваат во базата. Исто така, додадов поддршка за два јазика: англиски и македонски."
         }
       ]
