@@ -97,7 +97,7 @@
           "description": "#####6######",
           "title": "Blog - AP PT.2",
           "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
-          "ctaLink": "https://ap-restaurants-tj.netlify.app/",
+          "ctaLink": "https://restaurants-ap-tj.netlify.app/",
           "content": "This is an Admin Panel built for managing the Blog platform, developed using React.TS and Express.JS. Key features include JWT authentication and the ability to add, modify, and delete content. Changes made through this panel directly impact the database of the main Blog platform."
         },
         {
@@ -238,7 +238,7 @@
           "description": "######66#####",
           "title": "Blog - AP PT.2",
           "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
-          "ctaLink": "https://ap-restaurants-tj.netlify.app/",
+          "ctaLink": "https://restaurants-ap-tj.netlify.app/",
           "content": "Ова е Админ Панел изградена за управување со платформата за блог, користејќи React.TS и Express.JS. Клучни карактеристики се JWT аутентикација, можност за бришење, модифицирање, додавање на податоци и други операции. Промените направени преку овој панел директно влијаат на базата на податоци на главната блог платформа."
         },
         {
