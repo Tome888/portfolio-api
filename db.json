@@ -55,6 +55,15 @@
       "id": 1002,
       "title": "My Projects",
       "projectsArr": [
+        {
+          "id": "03033",
+          "tags": ["nextJS", "responsive", "fullStack"],
+          "description": "#####123######",
+          "title": "Vibe Strings",
+          "src": "https://tome888.github.io/portfolio-api/guitar-shop-tj.vercel.app_5.png",
+          "ctaLink": "https://guitar-shop-tj.vercel.app/",
+          "content": "This responsive guitar shop project was built with Next.js and Next API routes, originally using GraphQL for data fetching. Created as a company assignment, it now filters data by passing parameters to the API. After the GraphQL API went down, it was updated to work fully with Next.js. It also provides a language toggle between 3 languages."
+        },
        
         {
           "id": "03003",
@@ -197,6 +206,15 @@
       "id": 2002,
       "title": "Мој Проекти",
       "projectsArr": [
+        {
+          "id": "04033",
+          "tags": ["nextJS", "responsive", "fullStack"],
+          "description": "#####123123######",
+          "title": "Vibe Strings",
+          "src": "https://tome888.github.io/portfolio-api/guitar-shop-tj.vercel.app_5.png",
+          "ctaLink": "https://guitar-shop-tj.vercel.app/",
+          "content": "Овој респонзивен проект за продавница за гитари е изработен со Next.js и Next API рути, првично користејќи GraphQL за добивање податоци. Создаден како задача за компанија, сега филтрира податоци преку параметри во API-то. По паѓањето на GraphQL API-то, е ажуриран целосно да работи со Next.js. Исто така подржува опција за 3 јазици."
+        },
         
         {
           "id": "04003",
