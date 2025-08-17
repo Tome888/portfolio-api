@@ -23,7 +23,8 @@
         { "id": "tech8", "nameTech": "GraphQL" },
         { "id": "tech9", "nameTech": "Git" },
         { "id": "tech10", "nameTech": "MongoDB" },
-        {"id": "tech11", "nameTech":"Supabase"}
+        {"id": "tech11", "nameTech":"Supabase"},
+        {"id": "tech12", "nameTech":"WordPress"}
       ],
       "edu": [
         { "id": "edu1", "institute": "Brainster", "title": "Full-Stack Developer" },
@@ -173,7 +174,8 @@
         { "id": "tech8", "nameTech": "GraphQL" },
         { "id": "tech9", "nameTech": "Git" },
         { "id": "tech10", "nameTech": "MongoDB" },
-        {"id": "tech11", "nameTech":"Supabase"}
+        {"id": "tech11", "nameTech":"Supabase"},
+        {"id": "tech12", "nameTech":"WordPress"}
       ],
       "edu": [
         { "id": "edu01", "institute": "Брејнстер", "title": "Full-Stack Developer" },
