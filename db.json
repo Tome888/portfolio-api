@@ -76,6 +76,15 @@
           "content": "This is the final project for our JavaScript module. It’s a single-page web application built with Vanilla JavaScript, utilizing a Python backend server for authentication. The project is designed to be mobile and tablet-friendly. Key features include card filtering, saving user preferences, and allowing user interactions through comments on both cards and blog pages."
         },
         {
+          "id": "03099",
+          "tags": ["nextJS", "fullstack", "webSocket"],
+          "description": "#####99#####",
+          "title": "RPS Online Game",
+          "src": "https://tome888.github.io/portfolio-api/rps-ss.png",
+          "ctaLink": "https://rps-online-game-pi.vercel.app/",
+          "content": "This is a online multiplayer Rock, Paper, Scissors game where you can invite your friends to play 1v1. It is developed with Next.Js and Express.js using WebSockets."
+        },
+        {
           "id": "03009",
           "tags": ["reactTS", "challenge", "responsive"],
           "description": "#####9######",
@@ -226,6 +235,15 @@
           "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
           "ctaLink": "https://safe-blink-tj.netlify.app/",
           "content": "Ова е финалниот Бреинстер проект од модулот за JavaScript. Веб-апликација е single-page изградена со Vanilla JavaScript, која користи Python backend сервер за автентикација. Проектот е дизајниран да биде прилагоден за мобилни уреди и таблети. Клучните карактеристики вклучуваат филтрирање на картички, зачувување на кориснички преференции и овозможување на интеракција на корисниците преку коментари на картичките и блог страниците."
+        },
+        {
+          "id": "04099",
+          "tags": ["nextJS", "fullstack", "webSocket"],
+          "description": "#####99#####",
+          "title": "RPS Online Game",
+          "src": "https://tome888.github.io/portfolio-api/rps-ss.png",
+          "ctaLink": "https://rps-online-game-pi.vercel.app/",
+          "content": "Ова е online multiplayer игра каде можете да ги поканете вашите пријатели и да играте лист, кмаен, ножичка еден против друг. Изградена е со NextJs и Express.js со WebSockets."
         },
         {
           "id": "04009",
