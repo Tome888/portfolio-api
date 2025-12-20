@@ -93,15 +93,6 @@
           "content": "This is a Wordle clone built with React and TypeScript, offering a fun and interactive word-guessing game. Players can guess words of varying lengths, with feedback on each guess displayed in real-time. The game includes customizable settings such as the number of attempts and word length, with visual feedback (green for correct, yellow for wrong letter position) to help players. A confetti celebration occurs upon winning, adding an extra layer of excitement. The app also features a responsive design, ensuring a smooth experience across devices."
         },
         {
-          "id": "03005",
-          "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "####5#######",
-          "title": "Blog PT.1",
-          "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
-          "ctaLink": "https://blog-restaurants-site-tj.netlify.app/",
-          "content": "This project is built using React.TS, the point of the project is to handle user input (commenting, rating, adding to favorites). All the user inputs are communicated with a Backend built with Express.JS and the data is saved accordingly."
-        },
-        {
           "id": "03008",
           "tags": ["javaScript", "responsive", "challenge"],
           "description": "######8#####",
