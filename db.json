@@ -57,6 +57,15 @@
       "title": "My Projects",
       "projectsArr": [
         {
+  "id": "78451",
+  "tags": ["nextJS", "graphql", "fullStack"],
+  "description": "A large-scale production platform used by clinics worldwide.",
+  "title": "Pabau Software",
+  "src": "https://tome888.github.io/portfolio-api/PabauSoftware.png",
+  "ctaLink": "https://pabau.com/",
+  "content": "This is a production-grade project actively used by clinics all around the world. The platform enables clinics to manage appointments, handle client payments, communicate with patients, and perform many other daily operational tasks. It is built using Next.js on the frontend, GraphQL for data communication, NestJS on the backend, and various other modern technologies to ensure scalability, performance, and reliability."
+},
+        {
           "id": "03033",
           "tags": ["nextJS", "responsive", "fullStack"],
           "description": "#####123######",
@@ -64,16 +73,6 @@
           "src": "https://tome888.github.io/portfolio-api/guitar-shop-tj.vercel.app_5.png",
           "ctaLink": "https://guitar-shop-tj.vercel.app/",
           "content": "This responsive guitar shop project was built with Next.js and Next API routes, originally using GraphQL for data fetching. Created as a company assignment, it now filters data by passing parameters to the API. After the GraphQL API went down, it was updated to work fully with Next.js. It also provides a language toggle between 3 languages."
-        },
-       
-        {
-          "id": "03003",
-          "tags": ["javaScript", "responsive"],
-          "description": "#####3######",
-          "title": "Safe Blink Platform",
-          "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
-          "ctaLink": "https://safe-blink-tj.netlify.app/",
-          "content": "This is the final project for our JavaScript module. It’s a single-page web application built with Vanilla JavaScript, utilizing a Python backend server for authentication. The project is designed to be mobile and tablet-friendly. Key features include card filtering, saving user preferences, and allowing user interactions through comments on both cards and blog pages."
         },
         {
           "id": "03099",
@@ -94,15 +93,6 @@
           "content": "This is a Wordle clone built with React and TypeScript, offering a fun and interactive word-guessing game. Players can guess words of varying lengths, with feedback on each guess displayed in real-time. The game includes customizable settings such as the number of attempts and word length, with visual feedback (green for correct, yellow for wrong letter position) to help players. A confetti celebration occurs upon winning, adding an extra layer of excitement. The app also features a responsive design, ensuring a smooth experience across devices."
         },
         {
-          "id": "03004",
-          "tags": ["reactTS", "challenge"],
-          "description": "#####4######",
-          "title": "Sava Hackathon",
-          "src": "https://tome888.github.io/portfolio-api/hackaton.png",
-          "ctaLink": "https://sava-hackaton-tj.netlify.app/",
-          "content": "This project was developed during a hackathon for Sava Insurance, where we had 24 hours to create a solution for the client. While the app is connected to a backend, the presentation includes only the front-end. Key features include user registration, login, and communication with the backend regarding payments and user information."
-        },
-        {
           "id": "03005",
           "tags": ["reactTS", "fullStack", "expressJS"],
           "description": "####5#######",
@@ -110,24 +100,6 @@
           "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
           "ctaLink": "https://blog-restaurants-site-tj.netlify.app/",
           "content": "This project is built using React.TS, the point of the project is to handle user input (commenting, rating, adding to favorites). All the user inputs are communicated with a Backend built with Express.JS and the data is saved accordingly."
-        },
-        {
-          "id": "03006",
-          "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "#####6######",
-          "title": "Blog - AP PT.2",
-          "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
-          "ctaLink": "https://restaurants-ap-tj.netlify.app/",
-          "content": "This is an Admin Panel built for managing the Blog platform, developed using React.TS and Express.JS. Key features include JWT authentication and the ability to add, modify, and delete content. Changes made through this panel directly impact the database of the main Blog platform."
-        },
-        {
-          "id": "03007",
-          "tags": ["reactTS", "responsive"],
-          "description": "#####7######",
-          "title": "Old Portfolio",
-          "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
-          "ctaLink": "https://jeftimovportfolio.netlify.app/",
-          "content": "This is my previous portfolio website, built with React. It is fully responsive and incorporates a variety of complex effects to enhance user interaction. The site supports dual languages (English and Macedonian) and includes both dark and light modes for an optimized user experience. Additionally, it features a contact form that allows users to send emails directly through the site."
         },
         {
           "id": "03008",
@@ -155,16 +127,7 @@
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
           "ctaLink": "https://mahr-platform-verc.vercel.app",
           "content": "This is the final project from the React/Next.js module at Brainster. It includes filters, search functionality, and a dynamic calendar that adjusts based on data. To make the project more dynamic, I decided to add a backend for the first time, using Express.js and a db.json database. The backend handles user registration, login via JWT, and allows users to update credentials or comment on blog posts, with comments saved to the database. I also added support for dual languages: English and Macedonian."
-        },
-        {
-  "id": "78451",
-  "tags": ["nextJS", "graphql", "fullStack"],
-  "description": "A large-scale production platform used by clinics worldwide.",
-  "title": "Pabau Software",
-  "src": "https://tome888.github.io/portfolio-api/PabauSoftware.png",
-  "ctaLink": "https://pabau.com/",
-  "content": "This is a production-grade project actively used by clinics all around the world. The platform enables clinics to manage appointments, handle client payments, communicate with patients, and perform many other daily operational tasks. It is built using Next.js on the frontend, GraphQL for data communication, NestJS on the backend, and various other modern technologies to ensure scalability, performance, and reliability."
-}
+        }
       ]
     }
   },
@@ -226,6 +189,15 @@
       "id": 2002,
       "title": "Мој Проекти",
       "projectsArr": [
+         {
+  "id": "78451",
+  "tags": ["nextJS", "graphql", "fullStack"],
+  "description": "Голема продукциска платформа која се користи од клиники ширум светот.",
+  "title": "Pabau Software",
+  "src": "https://tome888.github.io/portfolio-api/PabauSoftware.png",
+  "ctaLink": "https://pabau.com/",
+  "content": "Ова е продукциски проект кој активно се користи од клиники низ целиот свет. Платформата им овозможува на клиниките да управуваат со закажување термини, наплата на клиенти, комуникација со пациенти и извршување на многу други секојдневни оперативни задачи. Изградена е со Next.js на фронтенд, GraphQL за размена на податоци, NestJS на бекенд и други модерни технологии со цел да се обезбеди скалабилност, перформанси и стабилност."
+},
         {
           "id": "04033",
           "tags": ["nextJS", "responsive", "fullStack"],
@@ -234,16 +206,6 @@
           "src": "https://tome888.github.io/portfolio-api/guitar-shop-tj.vercel.app_5.png",
           "ctaLink": "https://guitar-shop-tj.vercel.app/",
           "content": "Овој респонзивен проект за продавница за гитари е изработен со Next.js и Next API рути, првично користејќи GraphQL за добивање податоци. Создаден како задача за компанија, сега филтрира податоци преку параметри во API-то. По паѓањето на GraphQL API-то, е ажуриран целосно да работи со Next.js. Исто така подржува опција за 3 јазици."
-        },
-        
-        {
-          "id": "04003",
-          "tags": ["javaScript", "responsive"],
-          "description": "#####33######",
-          "title": "Safe Blink Platform",
-          "src": "https://tome888.github.io/portfolio-api/vanilaJSHomePage.png",
-          "ctaLink": "https://safe-blink-tj.netlify.app/",
-          "content": "Ова е финалниот Бреинстер проект од модулот за JavaScript. Веб-апликација е single-page изградена со Vanilla JavaScript, која користи Python backend сервер за автентикација. Проектот е дизајниран да биде прилагоден за мобилни уреди и таблети. Клучните карактеристики вклучуваат филтрирање на картички, зачувување на кориснички преференции и овозможување на интеракција на корисниците преку коментари на картичките и блог страниците."
         },
         {
           "id": "04099",
@@ -262,42 +224,6 @@
           "src": "https://tome888.github.io/portfolio-api/wordle-clone.png",
           "ctaLink": "https://my-wordle-clone-tj.netlify.app/",
           "content": "Oва е клон на Wordle изграден со React и TypeScript, забавна и интерактивна игра за погодување зборови. Играчите можат да погодуваат зборови со различна должина. Играта вклучува поставки како бројот на обиди и должината на зборовите, со визуелни `feedback` (зелено за правилен одговор, жолто за погрешна позиција на буквата) кои помагаат на играчите да го погодат зборот. По победата, се активира конфети прослава, додавајќи дополнителна возбуда. Апликацијата има и респонзивен дизајн, кој обезбедува беспрекорно искуство на сите уреди."
-        },
-        {
-          "id": "04004",
-          "tags": ["reactTS", "challenge"],
-          "description": "######44#####",
-          "title": "Sava Hackathon",
-          "src": "https://tome888.github.io/portfolio-api/hackaton.png",
-          "ctaLink": "https://sava-hackaton-tj.netlify.app/",
-          "content": "Овој проект беше развиен за време на хакатон организиран од Сава Осигурување, каде имавме 24 часа да создадеме решение за клиентот. Иако апликацијата е поврзана со backend, презентацијата вклучува само front-end. Клучните карактеристики се регистрација на корисници, најава и комуникација со backend-от во врска со плаќања и кориснички информации."
-        },
-        {
-          "id": "04005",
-          "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "######55#####",
-          "title": "Blog PT.1",
-          "src": "https://tome888.github.io/portfolio-api/restBlogHome.png",
-          "ctaLink": "https://blog-restaurants-site-tj.netlify.app/",
-          "content": "Овој проект е изграден со React.TS која цел е да прима инпути од корисниците како (коментирање, оценување, додавње во омилени). Сите овие инпути се комуницирани со одделен Backend кој ги зачувува во база."
-        },
-        {
-          "id": "04006",
-          "tags": ["reactTS", "fullStack", "expressJS"],
-          "description": "######66#####",
-          "title": "Blog - AP PT.2",
-          "src": "https://tome888.github.io/portfolio-api/adminPanel.png",
-          "ctaLink": "https://restaurants-ap-tj.netlify.app/",
-          "content": "Ова е Админ Панел изградена за управување со платформата за блог, користејќи React.TS и Express.JS. Клучни карактеристики се JWT аутентикација, можност за бришење, модифицирање, додавање на податоци и други операции. Промените направени преку овој панел директно влијаат на базата на податоци на главната блог платформа."
-        },
-        {
-          "id": "04007",
-          "tags": ["reactTS", "responsive"],
-          "description": "#####77######",
-          "title": "Old Portfolio",
-          "src": "https://tome888.github.io/portfolio-api/oldPortfolio.png",
-          "ctaLink": "https://jeftimovportfolio.netlify.app/",
-          "content": "Ова е моето старо веб-портфолио, изградена со React.TS. Портфолиото е целосно респонзивно и вклучува различни комплексни ефекти за подобрување на интеракцијата. Веб-страницата поддржува двојазичност (англиски и македонски) и вклучува и темен и светла тема за оптимизирано искуство. Покрај тоа, има контакт форма која дозволува корисниците да испратат пораки директно преку веб-страницата."
         },
         {
           "id": "04008",
@@ -325,16 +251,7 @@
           "src": "https://tome888.github.io/portfolio-api/finalProjectImg.png",
           "ctaLink": "https://mahr-platform-verc.vercel.app",
           "content": "Ова е финалниот проект од модулот React/Next.js на Brainster. Вклучува филтри, функција за пребарување и динамичен календар кој се прилагодува според податоците. За да го направам проектот подинамичен, одлучив за првпат да додадам backend, користејќи Express.js и db.json база на податоци. Backend-от управува со регистрација на корисници, најавување преку JWT, и им овозможува на корисниците да ги ажурираат своите информации или да коментираат на блог-постови, при што коментарите се зачувуваат во базата. Исто така, додадов поддршка за два јазика: англиски и македонски."
-        },
-        {
-  "id": "78451",
-  "tags": ["nextJS", "graphql", "fullStack"],
-  "description": "Голема продукциска платформа која се користи од клиники ширум светот.",
-  "title": "Pabau Software",
-  "src": "https://tome888.github.io/portfolio-api/PabauSoftware.png",
-  "ctaLink": "https://pabau.com/",
-  "content": "Ова е продукциски проект кој активно се користи од клиники низ целиот свет. Платформата им овозможува на клиниките да управуваат со закажување термини, наплата на клиенти, комуникација со пациенти и извршување на многу други секојдневни оперативни задачи. Изградена е со Next.js на фронтенд, GraphQL за размена на податоци, NestJS на бекенд и други модерни технологии со цел да се обезбеди скалабилност, перформанси и стабилност."
-}
+        }
 
       ]
     }
