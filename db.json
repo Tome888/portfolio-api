@@ -63,7 +63,7 @@
   "title": "Pabau Software",
   "src": "https://tome888.github.io/portfolio-api/PabauSoftware.png",
   "ctaLink": "https://pabau.com/",
-  "content": "This is a production-grade project actively used by clinics all around the world. The platform enables clinics to manage appointments, handle client payments, communicate with patients, and perform many other daily operational tasks. It is built using Next.js on the frontend, GraphQL for data communication, NestJS on the backend, and various other modern technologies to ensure scalability, performance, and reliability."
+  "content": "This is an enterprise-grade platform used by clinics worldwide to manage appointments, payments, patient communication, and other daily operations. It is built with Next.js on the frontend, GraphQL for data communication, and NestJS on the backend, using modern technologies to ensure scalability, performance, and reliability."
 },
         {
           "id": "03033",
