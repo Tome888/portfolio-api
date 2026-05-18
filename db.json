@@ -92,7 +92,7 @@
           "description": "Legacy Platform Optimization",
           "title": "System48",
           "src": "https://tome888.github.io/portfolio-api/sistem48_home.webp",
-          "ctaLink": "https://sistem48.strumica.gov.mk/index.php",
+          "ctaLink": "https://www.sistem48.strumica.gov.mk/index.php",
           "content": "Modernized System48, a legacy municipal feedback platform, by replacing its outdated interface with a fresh, mobile-friendly design, resolving critical security vulnerabilities like XSS and SQL injection, and implementing performance fixes for a faster, safer user experience."
         },
         {
@@ -227,7 +227,7 @@
           "description": "Оптимизација на Застарена Платформа",
           "title": "Sistem48",
           "src": "https://tome888.github.io/portfolio-api/sistem48_home.webp",
-          "ctaLink": "https://sistem48.strumica.gov.mk/index.php",
+          "ctaLink": "https://www.sistem48.strumica.gov.mk/index.php",
           "content": "Ја модернизирав Систем48, застарена општинска платформа за пријавување проблеми и предлози, преку имплементација на нов, респонзивен дизајн прилагоден за мобилни уреди, елиминирање на критични безбедносни пропусти како XSS и SQL инјекции, и оптимизација на перформансите за побрзо и побезбедно корисничко искуство."
         },
         {
