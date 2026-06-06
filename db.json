@@ -95,6 +95,15 @@
           "ctaLink": "https://sistem48.strumica.gov.mk/index.php",
           "content": "Modernized System48, a legacy municipal feedback platform, by replacing its outdated interface with a fresh, mobile-friendly design, resolving critical security vulnerabilities like XSS and SQL injection, and implementing performance fixes for a faster, safer user experience."
         },
+         {
+          "id": "0139",
+          "tags": ["WordPress"],
+          "description": "Official site for Municipality of Strumica",
+          "title": "Municipality of Strumica site",
+          "src": "https://tome888.github.io/portfolio-api/strumica_gov.webp",
+          "ctaLink": "https://strumica.gov.mk/",
+          "content": "A secure, responsive official government website developed with WordPress. Key contributions included full-stack development, UI/UX design, data migration, and ongoing site maintenance."
+        },
         {
           "id": "03009",
           "tags": ["reactTS", "challenge", "responsive"],
@@ -229,6 +238,15 @@
           "src": "https://tome888.github.io/portfolio-api/sistem48_home.webp",
           "ctaLink": "https://sistem48.strumica.gov.mk/index.php",
           "content": "Ја модернизирав Систем48, застарена општинска платформа за пријавување проблеми и предлози, преку имплементација на нов, респонзивен дизајн прилагоден за мобилни уреди, елиминирање на критични безбедносни пропусти како XSS и SQL инјекции, и оптимизација на перформансите за побрзо и побезбедно корисничко искуство."
+        },
+        {
+        "id": "01391",
+        "tags": ["WordPress"],
+        "title": "Официјална веб-страница на Општина Струмица",
+        "description": "Официјален владин веб-портал на Општина Струмица.",
+        "src": "https://tome888.github.io/portfolio-api/strumica_gov.webp",
+        "ctaLink": "https://strumica.gov.mk/",
+        "content": "Безбедна и респонзивна официјална владина веб-страница изработена на WordPress платформа. Главни придонеси: full-stack програмирање, UI/UX дизајн, миграција на податоци и долгорочно одржување на системот."
         },
         {
           "id": "04009",
